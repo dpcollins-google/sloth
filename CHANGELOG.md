@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@justinbeckwith/sloth?activeTab=versions
 
+### [5.25.2](https://www.github.com/googleapis/sloth/compare/v5.25.1...v5.25.2) (2020-05-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @octokit/rest to v17.9.2 ([#682](https://www.github.com/googleapis/sloth/issues/682)) ([f51967b](https://www.github.com/googleapis/sloth/commit/f51967b5c06231b87881f8f2ee25d92750b31bfa))
+
 ### [5.25.1](https://www.github.com/googleapis/sloth/compare/v5.25.0...v5.25.1) (2020-05-18)
 
 
